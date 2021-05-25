@@ -1,0 +1,66 @@
+StartTime = -17
+RightMove: StTime = 55 EdTime = 11
+LeftMove: StTime = 67 EdTime = 15
+RightMove: StTime = 83 EdTime = 180
+LeftMove: StTime = 253 EdTime = 54
+LeftMove: StTime = 332 EdTime = 78
+Jump:  StTime = 380 EdTime = 395
+CollectCoin:  time = 436
+RightMove: StTime = 374 EdTime = 250
+LeftMove: StTime = 445 EdTime = 95
+RightMove: StTime = 463 EdTime = 269
+StompKill:  EnemyType = 2 time = 483
+LeftMove: StTime = 483 EdTime = 97
+RightMove: StTime = 487 EdTime = 275
+Jump:  StTime = 473 EdTime = 494
+LeftMove: StTime = 494 EdTime = 128
+LittleState: StTime = -17 EdTime = 533
+Totaltime = 550
+Jump:  StTime = 529 EdTime = 533
+Die:  EnemyType = 1
+NEWLEVELSTART
+StartTime = -17
+LittleState: StTime = -17 EdTime = 140
+Totaltime = 157
+Jump:  StTime = 140 EdTime = 140
+Die:  EnemyType = 1
+NEWLEVELSTART
+StartTime = -17
+RightMove: StTime = -16 EdTime = 428
+LeftMove: StTime = 138 EdTime = 141
+Jump:  StTime = 162 EdTime = 174
+RightMove: StTime = 152 EdTime = 453
+LeftMove: StTime = 178 EdTime = 163
+CollectCoin:  time = 218
+StompKill:  EnemyType = 2 time = 227
+RightMove: StTime = 201 EdTime = 481
+Jump:  StTime = 217 EdTime = 238
+LeftMove: StTime = 230 EdTime = 185
+StompKill:  EnemyType = 2 time = 288
+CollectCoin:  time = 297
+Jump:  StTime = 277 EdTime = 299
+RightMove: StTime = 253 EdTime = 543
+LeftMove: StTime = 316 EdTime = 209
+StompKill:  EnemyType = 2 time = 361
+RightMove: StTime = 341 EdTime = 569
+Jump:  StTime = 351 EdTime = 372
+LeftMove: StTime = 368 EdTime = 227
+Jump:  StTime = 400 EdTime = 413
+CollectCoin:  time = 429
+CollectCoin:  time = 446
+RightMove: StTime = 387 EdTime = 634
+LeftMove: StTime = 453 EdTime = 239
+StompKill:  EnemyType = 2 time = 490
+RightMove: StTime = 466 EdTime = 661
+Jump:  StTime = 479 EdTime = 501
+LeftMove: StTime = 494 EdTime = 258
+LittleState: StTime = -17 EdTime = 523
+Totaltime = 540
+Jump:  StTime = 520 EdTime = 523
+Die:  EnemyType = 1
+NEWLEVELSTART
+StartTime = -17
+RightMove: StTime = -16 EdTime = 1097
+Totaltime = 651
+RightMove: StTime = 421 EdTime = 1310
+LittleState: StTime = -17 EdTime = 634
