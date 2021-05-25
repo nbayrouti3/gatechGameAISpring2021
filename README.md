@@ -7,8 +7,8 @@ the instruction files for each of the homeworks.
 All homeworks except for HW 5 are in Python. HW 5 is in Java.
 
 Topics are as follows:
-HW 1 - Pathfinding
-HW 2 - Functional State Machine
-HW 3 - Behavior Trees
-HW 4 - Behavior Planning
+HW 1 - Pathfinding  
+HW 2 - Functional State Machine  
+HW 3 - Behavior Trees  
+HW 4 - Behavior Planning  
 HW 5 - Procedural Content Generation
